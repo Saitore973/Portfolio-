@@ -1,3 +1,4 @@
+
 .navbar{
     padding: 0px;
     margin: 0px;
@@ -36,9 +37,9 @@ nav ul li a{
 }
 
 .contain{
-    background-color: black;
-    padding: 57px;
-    color: purple;
+    background-color: rgb(19, 12, 12);
+    
+    color: rgb(143, 5, 143);
 }
 
 .contain .saitore{
@@ -47,6 +48,16 @@ nav ul li a{
 .contain h2{
     
     float:right;
-    font-size:50px;
-    line-height:80px;
-    padding: 60px;
+    font-size:35px;
+    line-height:40px;
+    padding: 170px 100px 50px 50px;
+}
+
+button{
+    background-color:rgb(143, 5, 143);
+    padding:15px 55px;
+    margin:20px 79px;
+    border-radius: 25px;
+    box-shadow: 0 1px 2px rgba(143, 5, 143);
+    border: none;
+}
