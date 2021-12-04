@@ -1,7 +1,35 @@
+.contain{
+    padding: 0px;
+    margin: 0px;
+}
 .logo{
     float: left;
+    padding: 30px;
     
 }
+
 nav{
     float: right;
+    padding: 30px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 0px 30px;
+    margin-left: 
+}
+    
+
+nav ul li a{
+    text-decoration: none;
+}
+
+.contain::after{
+    content: "";
+    display: table;
+    clear: both;
 }
