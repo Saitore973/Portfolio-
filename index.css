@@ -1,4 +1,4 @@
-.contain{
+.navbar{
     padding: 0px;
     margin: 0px;
 }
@@ -20,16 +20,23 @@ nav ul{
 nav ul li{
     display: inline-block;
     padding: 0px 30px;
-    margin-left: 
+    color: purple
 }
     
 
 nav ul li a{
     text-decoration: none;
+    
 }
 
 .contain::after{
     content: "";
     display: table;
     clear: both;
+}
+
+.contain{
+    background-color: black;
+    padding: 50px;
+    color: purple;
 }
