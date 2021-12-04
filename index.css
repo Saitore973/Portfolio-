@@ -37,6 +37,16 @@ nav ul li a{
 
 .contain{
     background-color: black;
-    padding: 50px;
+    padding: 57px;
     color: purple;
 }
+
+.contain .saitore{
+    float: left;
+}
+.contain h2{
+    
+    float:right;
+    font-size:50px;
+    line-height:80px;
+    padding: 60px;
