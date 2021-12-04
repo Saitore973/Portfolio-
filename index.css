@@ -48,15 +48,21 @@ nav ul li a{
 .contain h2{
     
     float:right;
-    font-size:35px;
-    line-height:40px;
-    padding: 170px 100px 50px 50px;
+    font-size:38px;
+    line-height:60px;
+    padding: 90px 100px 30px 50px;
+}
+
+.contain hr{
+    width: 180px;
+    height: 5px;
+    background-color: rgb(143, 5, 143);
 }
 
 button{
     background-color:rgb(143, 5, 143);
     padding:15px 55px;
-    margin:20px 79px;
+    margin:20px 89px;
     border-radius: 25px;
     box-shadow: 0 1px 2px rgba(143, 5, 143);
     border: none;
