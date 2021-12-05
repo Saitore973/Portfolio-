@@ -89,3 +89,24 @@ button:hover{
     
     padding: 30px;
 }
+
+.skills{
+    text-align:center;
+    font-size:20px;
+    
+}
+.skills p{
+    text-align:;
+}
+
+.card{
+border-radius: 25px;
+}
+
+.col-3{
+    color: purple;
+    border: solid;
+    margin: 40px;
+    border-radius:25px;
+}
+    
