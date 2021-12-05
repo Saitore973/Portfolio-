@@ -73,7 +73,7 @@ button{
 }
 
 button:hover{
-    background-color: blue;
+    background-color:blueviolet;
     color:white;
 }
 
@@ -93,7 +93,7 @@ button:hover{
 .skills{
     text-align:center;
     font-size:20px;
-    
+        
 }
 
 
