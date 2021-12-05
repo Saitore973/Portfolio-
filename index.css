@@ -105,11 +105,12 @@ border-radius: 25px;
 
 .col-3{
 
-    border: solid;
+    border: none;
     margin: 45px;
     border-radius:25px;
     font-weight: bolder;
     font-size:30px;
+    box-shadow: 5px 5px 7px rgba(143, 5, 143) ;
 }
 
 .col-3 h6{
