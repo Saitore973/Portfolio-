@@ -21,7 +21,7 @@ nav ul{
 nav ul li{
     display: inline-block;
     padding: 0px 30px;
-    color: purple
+    color: rgb(247, 170, 247);
 }
     
 
@@ -41,9 +41,9 @@ nav ul li a:hover{
 }
 
 .contain{
-    background-color: rgb(19, 12, 12);
+    background-color: rgb(53, 51, 51);
     
-    color: rgb(143, 5, 143);
+    color: rgb(247, 170, 247);
 }
 
 .contain .saitore{
@@ -60,15 +60,15 @@ nav ul li a:hover{
 .contain hr{
     width: 180px;
     height: 5px;
-    background-color: rgb(143, 5, 143);
+    background-color: rgb(247, 170, 247);
 }
 
 button{
-    background-color:rgb(143, 5, 143);
+    background-color:rgb(247, 170, 247);
     padding:15px 55px;
     margin:20px 89px;
     border-radius: 25px;
-    box-shadow: 0 1px 2px rgba(143, 5, 143);
+    box-shadow: 0 1px 2px rgb(247, 170, 247);
     border: none;
 }
 
@@ -78,7 +78,7 @@ button:hover{
 }
 
 .jumbotron{
-    background-color:rgba(143, 5, 143);
+    background-color:rgb(247, 170, 247);
     text-align:center;
     font-size:20px;
     line-height:35px;
@@ -95,8 +95,12 @@ button:hover{
     font-size:20px;
     
 }
-.skills p{
-    text-align:;
+
+
+.skills h3{
+    color: rgb(247, 170, 247);
+    font-weight: bolder;
+    padding: 30px;
 }
 
 .card{
@@ -110,11 +114,11 @@ border-radius: 25px;
     border-radius:25px;
     font-weight: bolder;
     font-size:30px;
-    box-shadow: 5px 5px 7px rgba(143, 5, 143) ;
+    box-shadow: 5px 5px 7px rgb(247, 170, 247);
 }
 
 .col-3 h6{
-    color: rgba(143, 5, 143);
+    color: rgb(247, 170, 247);
     font-size:50px;
 }
 
