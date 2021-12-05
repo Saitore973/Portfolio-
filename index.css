@@ -109,6 +109,16 @@ border-radius: 25px;
     margin: 45px;
     border-radius:25px;
     font-weight: bolder;
+    font-size:30px;
+}
+
+.col-3 h6{
+    color: rgba(143, 5, 143);
+    font-size:50px;
+}
+
+.col-3 p{
+    font-weight: lighter;
     font-size:20px;
 }
     
