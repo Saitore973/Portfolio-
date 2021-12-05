@@ -104,9 +104,11 @@ border-radius: 25px;
 }
 
 .col-3{
-    color: purple;
+
     border: solid;
-    margin: 40px;
+    margin: 45px;
     border-radius:25px;
+    font-weight: bolder;
+    font-size:20px;
 }
     
