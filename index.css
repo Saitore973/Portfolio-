@@ -91,7 +91,7 @@ button:hover{
 }
 
 .jumbotron h1{
-    
+    color:rgb(247, 92, 247);
     padding: 30px;
 }
 
@@ -144,12 +144,30 @@ border-radius: 25px;
     background-color:rgb(247, 92, 247);
 }
 
+.card-body p{
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+
+
+.card-body a{
+    color: blueviolet;
+    
+}
 ul {
     list-style:none;
     
 }
 ul li {
-    color: black;
+    color:black;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.card-body .col{
+    font-size: 30px;
+    font-weight: bolder;
 }
 
 .card-footer{
