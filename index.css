@@ -145,12 +145,13 @@ border-radius: 25px;
 }
 
 .card-body{
-    background-color:rgb(247, 92, 247);
+    background-color:rgb(53, 51, 51);
 }
 
 .card-body p{
     font-size: 20px;
     font-weight: lighter;
+    color: rgb(247, 92, 247);
     
 }
 
@@ -164,7 +165,7 @@ ul {
     
 }
 ul li {
-    color:black;
+    color:rgb(247, 92, 247);
     font-size: 20px;
     font-weight: lighter;
 }
@@ -172,11 +173,12 @@ ul li {
 .card-body .col{
     font-size: 30px;
     font-weight: bolder;
+    color: rgb(247, 92, 247);
 }
 
 .card-footer{
     text-align: center;
-    background-color:rgb(53, 51, 51); 
-    color:rgb(247, 92, 247);
+    background-color:rgb(247, 92, 247);
+    color:rgb(53, 51, 51);
 }
     
