@@ -76,3 +76,16 @@ button:hover{
     background-color: blue;
     color:white;
 }
+
+.jumbotron{
+    background-color:rgba(143, 5, 143);
+    text-align:center;
+    font-size:20px;
+    line-height:35px;
+    padding:50px;
+}
+
+.jumbotron h1{
+    
+    padding: 30px;
+}
