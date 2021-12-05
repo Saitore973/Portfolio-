@@ -1,4 +1,6 @@
-
+.container{
+    background-color: rgb(242, 243, 243);
+}
 .navbar{
     padding: 0px;
     margin: 0px;
@@ -78,6 +80,7 @@ button:hover{
 }
 
 .jumbotron{
+    background-color: rgb(242, 243, 243);
     text-align:left;
     font-size:20px;
     line-height:40px;
@@ -100,6 +103,7 @@ button:hover{
 .skills{
     text-align:center;
     font-size:20px;
+    background-color: rgb(242, 243, 243);
         
 }
 
