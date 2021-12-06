@@ -107,9 +107,9 @@ button:hover {
 
 .jumbotron h1 {
     color: rgb(247, 92, 247);
-    padding: 30px 250px;
+    padding: 30px 150px;
     font-weight: bold;
-    ;
+    
 }
 
 
@@ -128,6 +128,7 @@ button:hover {
     color: blueviolet;
     font-weight: bolder;
     padding: 30px;
+    font-size: 40px;
 }
 
 .skills hr {
@@ -143,7 +144,7 @@ button:hover {
 .col-3 {
 
     border: none;
-    margin: 45px;
+    margin: 75px;
     border-radius: 25px;
     font-weight: bolder;
     font-size: 30px;
@@ -157,7 +158,8 @@ button:hover {
 
 .col-3 p {
     font-weight: lighter;
-    font-size: 20px;
+    font-size: 30px;
+    line-height: 55px;
 }
 
 .card-body {
