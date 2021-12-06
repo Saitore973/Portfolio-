@@ -1,4 +1,4 @@
-.container {
+.container-fluid {
     background-color: rgb(242, 243, 243);
 }
 
@@ -9,22 +9,23 @@
 
 .logo {
     float: left;
-    padding: 30px;
+    padding: 40px;
 
 }
 
 nav {
     float: right;
-    padding: 30px;
+    padding: 40px;
 }
 
 nav ul {
     list-style: none;
+
 }
 
 nav ul li {
     display: inline-block;
-    padding: 0px 30px;
+    padding: 0px 50px;
     color: rgb(247, 92, 247);
 }
 
@@ -36,6 +37,7 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: crimson;
+    
 }
 
 .contain::after {
@@ -52,14 +54,13 @@ nav ul li a:hover {
 
 .contain .saitore {
     float: left;
+   
 }
 
 .contain h2 {
-
-    float: right;
-    font-size: 38px;
-    line-height: 60px;
-    padding: 90px 100px 30px 50px;
+    font-size: 58px;
+    line-height: 95px;
+    padding: 110px 0px 0px 120px;
 }
 
 .contain hr {
@@ -68,10 +69,18 @@ nav ul li a:hover {
     background-color: rgb(247, 92, 247);
 }
 
+.home::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
 button {
     background-color: rgb(247, 92, 247);
     padding: 15px 55px;
-    margin: 20px 89px;
+    margin: 50px 200px;
+    
     border-radius: 25px;
     box-shadow: 0 1px 2px rgb(247, 92, 247);
     border: none;
