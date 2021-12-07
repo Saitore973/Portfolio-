@@ -23,7 +23,7 @@ This is a project that shows my personal portfolio. Besides it shows my hobies a
 
 
 ## LiveLink
-https://saitore973.github.io/Portfolio-/
+ https://saitore973.github.io/Portfolio-/
 
 ## Known Bugs 
 
